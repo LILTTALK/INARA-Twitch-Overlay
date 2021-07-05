@@ -1,1 +1,1 @@
-# INARA-Twitch-Overlay
+# [INARA](https://inara.cz/) Twitch Overlay Extension
